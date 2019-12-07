@@ -234,7 +234,7 @@
 					"file": "/F/BianCengApp/sublimeText/README.md",
 					"settings":
 					{
-						"buffer_size": 923,
+						"buffer_size": 876,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -402,7 +402,7 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 923,
+								"buffer_size": 876,
 								"regions":
 								{
 									"col_FF0000FF":
@@ -459,8 +459,8 @@
 								"selection":
 								[
 									[
-										208,
-										208
+										383,
+										383
 									]
 								],
 								"settings":
@@ -523,12 +523,14 @@
 										3,
 										46
 									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
 									"parser": "github",
 									"syntax": "Packages/Markdown/Markdown.sublime-syntax",
 									"target": "disk"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 183.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -577,7 +579,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,934,156,156,1293",
+			"position": "0,0,1,-1,-1,-1,-1,1081,526,303,1663",
 			"project": "",
 			"replace":
 			{
