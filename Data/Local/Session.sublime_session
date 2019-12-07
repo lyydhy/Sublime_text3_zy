@@ -1,0 +1,577 @@
+{
+	"folder_history":
+	[
+		"/F/BianCengApp/sublimeText",
+		"/F/work/test1"
+	],
+	"last_version": 3211,
+	"last_window_id": 16,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 719.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ma",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"to",
+						"Toggle AutoSave: all files"
+					],
+					[
+						"relo",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"rp",
+						"Package Control: Remove Package"
+					],
+					[
+						"ip",
+						"Package Control: Install Package"
+					],
+					[
+						"mar",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"reload",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"livere",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"toggle",
+						"Toggle AutoSave: current file only"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.cn/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/F/BianCengApp/sublimeText/Data/Packages/LiveReload/LiveReload.sublime-settings",
+				"/F/BianCengApp/sublimeText/Data/Packages/Markdown/Markdown.sublime-syntax",
+				"/F/BianCengApp/sublimeText/Data/Packages/MarkdownLivePreview/MarkdownLivePreview.sublime-settings",
+				"/F/work/test1/t.md",
+				"/F/BianCengApp/sublimeText/Data/Packages/MarkdownLivePreview/MarkdownLivePreview.sublime-commands",
+				"/F/work/test1/test.html",
+				"/F/work/test1/m.css",
+				"/F/work/test1/index.html",
+				"/F/BianCengApp/sublimeText/Data/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/F/BianCengApp/sublimeText/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/F/BianCengApp/sublimeText/Data/Packages/FileHeader/template/header/CSS.tmpl",
+				"/F/work/test1/css/main.css",
+				"/F/BianCengApp/sublimeText/Data/Packages/FileHeader/template/header/HTML.tmpl",
+				"/F/work/test1/min.html",
+				"/F/BianCengApp/sublimeText/Data/Packages/FileHeader/FileHeader.sublime-settings",
+				"/F/BianCengApp/sublimeText/Data/Packages/SublimeTmpl/templates/html.tmpl",
+				"/F/work/test1/js/main.js",
+				"/F/work/test1/main.html",
+				"/F/BianCengApp/sublimeText/Data/Packages/SublimeTmpl/Main.sublime-menu",
+				"/F/work/test1/test.py",
+				"/F/BianCengApp/sublimeText/Data/Installed Packages/SideBarEnhancements.sublime-package",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/lyydhy/Desktop/hosts"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 70.0
+			},
+			"menu_visible": false,
+			"output.CSS Extended Completions":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1038.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/F/BianCengApp/sublimeText/sublime_plugin.py",
+					"settings":
+					{
+						"buffer_size": 36887,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ma",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"to",
+						"Toggle AutoSave: all files"
+					],
+					[
+						"relo",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"mark",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"rp",
+						"Package Control: Remove Package"
+					],
+					[
+						"ip",
+						"Package Control: Install Package"
+					],
+					[
+						"mar",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"reload",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"livere",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"toggle",
+						"Toggle AutoSave: current file only"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.cn/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/F/BianCengApp/sublimeText/Data/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+				"/F/BianCengApp/sublimeText/Data/Packages/LiveReload/LiveReload.sublime-settings",
+				"/F/BianCengApp/sublimeText/Data/Packages/Markdown/Markdown.sublime-syntax",
+				"/F/BianCengApp/sublimeText/Data/Packages/MarkdownLivePreview/MarkdownLivePreview.sublime-settings",
+				"/F/work/test1/t.md",
+				"/F/BianCengApp/sublimeText/Data/Packages/MarkdownLivePreview/MarkdownLivePreview.sublime-commands",
+				"/F/work/test1/test.html",
+				"/F/work/test1/m.css",
+				"/F/work/test1/index.html",
+				"/F/BianCengApp/sublimeText/Data/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+				"/F/BianCengApp/sublimeText/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/F/BianCengApp/sublimeText/Data/Packages/FileHeader/template/header/CSS.tmpl",
+				"/F/work/test1/css/main.css",
+				"/F/BianCengApp/sublimeText/Data/Packages/FileHeader/template/header/HTML.tmpl",
+				"/F/work/test1/min.html",
+				"/F/BianCengApp/sublimeText/Data/Packages/FileHeader/FileHeader.sublime-settings",
+				"/F/BianCengApp/sublimeText/Data/Packages/SublimeTmpl/templates/html.tmpl",
+				"/F/work/test1/js/main.js",
+				"/F/work/test1/main.html",
+				"/F/BianCengApp/sublimeText/Data/Packages/SublimeTmpl/Main.sublime-menu",
+				"/F/work/test1/test.py",
+				"/F/BianCengApp/sublimeText/Data/Installed Packages/SideBarEnhancements.sublime-package",
+				"/C/Windows/System32/drivers/etc/hosts",
+				"/C/Users/lyydhy/Desktop/hosts"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/F/BianCengApp/sublimeText/sublime_plugin.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 36887,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										164,
+										164
+									]
+								],
+								"settings":
+								{
+									"auto_complete_triggers":
+									[
+										{
+											"characters": "<",
+											"selector": "text.html"
+										},
+										{
+											"characters": ".#",
+											"selector": "text.html"
+										}
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										227,
+										12,
+										8,
+										0,
+										31,
+										12,
+										10,
+										211,
+										2,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"git_gutter_is_enabled": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 70.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": false,
+			"output.CSS Extended Completions":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,2,-32000,-32000,-1,-1,1381,-76,603,977",
+			"project": "",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 16,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

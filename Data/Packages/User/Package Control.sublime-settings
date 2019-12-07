@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"channels":
+	[
+		"http://packagecontrol.cn/channel_v3.json"
+	],
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"auto-save",
+		"AutoFileName",
+		"ChineseLocalizations",
+		"Color Highlight",
+		"ConvertToUTF8",
+		"CSS Extended Completions",
+		"CSS3",
+		"Emmet",
+		"FileHeader",
+		"HTML-CSS-JS Prettify",
+		"LiveReload",
+		"MarkdownPreview",
+		"Material Theme",
+		"Package Control",
+		"Pretty JSON",
+		"TabNine",
+		"Vue Syntax Highlight"
+	]
+}
