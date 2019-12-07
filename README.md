@@ -26,7 +26,7 @@ lyydhy Sublime Text3 3221 自用版 常用插件+汉化
 * Color Highlight setting
 	>颜色高亮  
 	>图片示例：  
-	>![示例](https://cdn.img.wenhairu.com/images/2019/12/08/A7e9A.png)
+	>![示例](img/1.png)
 
 * liveReload
 	>这里主要用于Markdown的实时刷新使用  
