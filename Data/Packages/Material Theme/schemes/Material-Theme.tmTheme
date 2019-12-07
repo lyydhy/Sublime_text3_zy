@@ -1362,6 +1362,17 @@ a {
 				<string>#2A2A2AFF</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>scope</key>
+			<string>col_FFFF00FF</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#FFFF00FF</string>
+				<key>foreground</key>
+				<string>#616161FF</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>133d1250-19c6-4565-bc93-b37fd36f7fc9</string>
