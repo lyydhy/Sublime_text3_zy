@@ -40,6 +40,12 @@ lyydhy Sublime Text3 3221 自用版 常用插件+汉化
 	>使用方法：  
 	>>* 按快捷键<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd>  
 	>>* 输入:Markdown Preview in Browser  
+* Autoprefix
+	>css自动兼容
+	>使用方法：  
+	>>* 按快捷键<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>p</kbd>  
+	>>* 输入css  
+	>>* 选择 Autoprefix
 	>>* 选择markdown即可打开你的默认浏览器来预览刚才的内容。  
 
 * FileHeader
