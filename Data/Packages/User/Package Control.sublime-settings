@@ -11,8 +11,10 @@
 	[
 		"auto-save",
 		"AutoFileName",
+		"Autoprefixer",
 		"ChineseLocalizations",
 		"Color Highlight",
+		"ColorPicker",
 		"ConvertToUTF8",
 		"CSS Extended Completions",
 		"CSS3",

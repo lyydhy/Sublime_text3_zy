@@ -1,11 +1,11 @@
 {
 	"folder_history":
 	[
-		"/F/BianCengApp/sublimeText",
-		"/F/work/test1"
+		"/F/work/test1",
+		"/F/BianCengApp/sublimeText"
 	],
 	"last_version": 3211,
-	"last_window_id": 17,
+	"last_window_id": 21,
 	"log_indexing": false,
 	"settings":
 	{
@@ -29,6 +29,18 @@
 				"selected_items":
 				[
 					[
+						"ip",
+						"Package Control: Install Package"
+					],
+					[
+						"auto",
+						"Autoprefix CSS"
+					],
+					[
+						"package",
+						"Package Control: Disable Package"
+					],
+					[
 						"ma",
 						"Markdown Preview: Preview in Browser"
 					],
@@ -47,10 +59,6 @@
 					[
 						"rp",
 						"Package Control: Remove Package"
-					],
-					[
-						"ip",
-						"Package Control: Install Package"
 					],
 					[
 						"mar",
@@ -102,11 +110,17 @@
 			},
 			"file_history":
 			[
+				"/F/BianCengApp/sublimeText/Data/Packages/ConvertToUTF8/Default (Windows).sublime-keymap",
+				"/F/work/test1/m.Vue",
+				"/F/work/test1/js/main.js",
+				"/F/BianCengApp/sublimeText/Data/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/F/BianCengApp/sublimeText/Data/Packages/User/ConvertToUTF8.sublime-settings",
+				"/F/BianCengApp/sublimeText/Data/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+				"/F/work/test1/t.md",
 				"/F/BianCengApp/sublimeText/Data/Packages/Pretty JSON/Pretty JSON.sublime-settings",
 				"/F/BianCengApp/sublimeText/Data/Packages/LiveReload/LiveReload.sublime-settings",
 				"/F/BianCengApp/sublimeText/Data/Packages/Markdown/Markdown.sublime-syntax",
 				"/F/BianCengApp/sublimeText/Data/Packages/MarkdownLivePreview/MarkdownLivePreview.sublime-settings",
-				"/F/work/test1/t.md",
 				"/F/BianCengApp/sublimeText/Data/Packages/MarkdownLivePreview/MarkdownLivePreview.sublime-commands",
 				"/F/work/test1/test.html",
 				"/F/work/test1/m.css",
@@ -119,7 +133,6 @@
 				"/F/work/test1/min.html",
 				"/F/BianCengApp/sublimeText/Data/Packages/FileHeader/FileHeader.sublime-settings",
 				"/F/BianCengApp/sublimeText/Data/Packages/SublimeTmpl/templates/html.tmpl",
-				"/F/work/test1/js/main.js",
 				"/F/work/test1/main.html",
 				"/F/BianCengApp/sublimeText/Data/Packages/SublimeTmpl/Main.sublime-menu",
 				"/F/work/test1/test.py",
@@ -217,7 +230,7 @@
 			{
 			}
 		},
-		"new_window_width": 1036.0
+		"new_window_width": 1117.0
 	},
 	"windows":
 	[
@@ -226,17 +239,76 @@
 			{
 				"selected_items":
 				[
+					[
+						"i",
+						"ife\tif … else"
+					],
+					[
+						"get",
+						"getElementById"
+					]
 				]
 			},
 			"buffers":
 			[
 				{
+					"file": "/F/work/test1/index.html",
+					"settings":
+					{
+						"buffer_size": 9207,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "* {\n    margin: 0;\n    padding: 0;\n}\n\na {\n    text-decoration: none;\n    color: black;\n}\n\nli {\n    list-style: none;\n}\n\nbody {\n    width: 100%;\n}\n\nheader {\n    max-width: 1920px;\n    position: relative;\n}\n\n/* 导航栏第一部分 */\n.header-1 {\n    height: 100px;\n}\n\n.header-1-top {\n    margin: 0 auto;\n    width: 1210px;\n    height: 100%;\n    position: relative;\n}\n\n.logo {\n    position: absolute;\n    float: left;\n    width: 430px;\n}\n\n.header-right {\n    position: absolute;\n    left: 690px;\n}\n\n.h-title {\n    width: 100%;\n}\n\n.h-title {\n    height: 30px;\n    border-radius: 0 5px;\n    background: url(../img/icon/h-title-bj.png);\n    box-shadow: 0 3px rgb(237, 237, 237);\n}\n\n.h-title span {\n    float: left;\n    padding-left: 35px;\n    background-position: 10px 7px;\n}\n\n.h-title-1,\n.h-title-2,\n.h-title-3 {\n    padding-top: 7px;\n    height: 16px;\n}\n\n.h-title-1 p,\n.h-title-2 a,\n.h-title-3 p,\n.h-title-3 a,\n.h-phone-p {\n    font-family: '宋体';\n    font-size: 12px;\n}\n\n.h-title-1 {\n    background: url(../img/icon/h-title-jt.png) no-repeat;\n    width: 255px;\n}\n\n.h-title-1 p,\n.h-title-3 p,\n.h-title-2 a,\n.h-title-3 a {\n    float: left;\n    color: rgb(153, 153, 153);\n\n}\n\n.h-title-p-red {\n    color: rgb(229, 46, 46) !important;\n    font-weight: 700 !important;\n    padding: 0 7px;\n}\n\n.h-title-p-black {\n    color: rgb(85, 85, 85) !important;\n    font-weight: bolder;\n}\n\n.h-title-2 {\n    background: url(../img/icon/h-title-sc.png) no-repeat;\n    width: 55px;\n}\n\n.h-title-2 a {\n    color: rgb(85, 85, 85) !important;\n    padding: 1px 0;\n}\n\n.h-title-3 {\n    background: url(../img/icon/h-title-people.png) no-repeat;\n    width: 90px;\n}\n\n.h-title-3 p {\n    padding: 0 10px;\n}\n\n.h-phone {\n    width: 210px;\n    position: absolute;\n    right: 0;\n    margin-top: 24px;\n}\n\n.h-phone img {\n    width: 37px;\n    height: 37px;\n    float: left;\n    padding: 0 5px;\n}\n\n.h-phone p {\n    color: rgb(153, 153, 153);\n}\n\n.h-phone-p-2 {\n    font-family: \"microsoft yahei\";\n    font-size: 24px;\n}\n\n\n/* 导航栏第二部分 */\n.header-2 {\n    width: 100%;\n    background: url(../img/dh-bj.png) no-repeat;\n    height: 72px;\n}\n\n.h-nav {\n    height: 100%;\n    width: 1190px;\n    margin: 0 auto;\n}\n\n.h-nav li {\n    float: left;\n    width: 170px;\n    text-align: center;\n    position: relative;\n}\n\n.header-2 a {\n    color: rgb(255, 255, 255);\n    font-family: \"microsoft yahei\";\n    font-size: 18px;\n    line-height: 72px;\n}\n\n/*.h-nav span {*/\n/*\tbackground: url();*/\n/*}*/\n\n.h-nav li:hover {\n    background-color: rgb(204, 41, 41);\n    /* opacity: 0.9; */\n}\n\n.h-nav li:hover ul {\n    display: block;\n}\n\n.h-nav-down {\n    display: none;\n    width: 170px;\n    z-index: 999;\n}\n\n.h-nav-down li:hover {\n    background-color: rgb(255, 51, 51);\n\n}\n\n.h-nav-down li {\n    height: 30px;\n}\n\n.h-nav-down a {\n    line-height: 30px;\n    font-size: 14px;\n}\n\n/* 主体部分开始 */\nmain {\n    max-width: 1920px;\n}\n\n.content-1 {\n    height: 500px;\n    width: 100%;\n    background: url(../img/bj.png);\n}\n\n.content-2 {\n    height: 180px;\n    width: 1205px;\n    margin: 0 auto;\n    margin-top: 15px;\n}\n\n.content-2-c {\n    width: 290px;\n    height: 160px;\n    float: left;\n    border-radius: 5px;\n    margin-right: 15px;\n    position: relative;\n    z-index: 98;\n    background-color: white;\n    overflow: hidden;\n}\n\n.c-1 {\n    background-color: rgb(217, 178, 255);\n}\n\n.c-2 {\n    background-color: rgb(255, 178, 178);\n}\n\n.c-3 {\n    background-color: rgb(255, 217, 178);\n}\n\n.c-4 {\n    background-color: rgb(255, 255, 140);\n    margin-right: 0px;\n}\n\n.c-img-xz,\n.c-img-ty-min,\n.c-img-ty-max {\n    z-index: 97;\n    position: absolute;\n}\n\n.c-img-ty-min {\n    top: 55px;\n    opacity: 0.4;\n    right: 200px;\n}\n\n.c-img-ty-max {\n    bottom: 70px;\n    left: 150px;\n    z-index: 1;\n}\n\n.c-img-xz {\n    right: 0;\n    z-index: 2;\n}\n\n.c-2-xz {\n    top: 10px;\n    left: 230px;\n}\n\n.c-3-xz {\n    top: 25px;\n    left: 205px;\n}\n\n.c-4-xz {\n    top: 25px;\n    left: 230px;\n}\n\n.c-t-1,\n.c-t-2,\n.c-t-3,\n.c-t-4 {\n    position: absolute;\n}\n\n.c-t-1 {\n    font-family: \"impact\";\n    font-size: 84px;\n    color: #FFFFFF;\n    right: 220px;\n    bottom: 80px;\n}\n\n.c-t-2 {\n    font-family: \"microsoft yahei\";\n    font-size: 30px;\n    top: 60px;\n    width: 20px;\n    color: white;\n    z-index: 100;\n    left: 10px;\n    line-height: 30px;\n}\n\n.c-2 .c-t-2 {\n    width: 60px;\n    line-height: 26px;\n    letter-spacing: -4px;\n    left: -4px;\n}\n\n.c-t-3 {\n    font-family: \"宋体\";\n    font-size: 18px;\n    color: #FFFFFF;\n    top: 60px;\n    left: 45px;\n    z-index: 100;\n    width: 20px;\n}\n\n.c-2 .c-t-3 {\n    left: 50px;\n}\n\n.c-t-4 {\n    font-family: \"microsoft yahei\";\n    z-index: 100;\n    font-size: 14px;\n    width: 170px;\n    left: 75px;\n    top: 20px;\n    color: rgb(85, 39, 131);\n    font-weight: 600;\n}\n\n.c-2 .c-t-4 {\n    color: rgb(155, 51, 51);\n}\n\n.c-3 .c-t-4 {\n    color: rgb(168, 113, 56);\n}\n\n.c-4 .c-t-4 {\n    color: rgb(147, 147, 35);\n}\n\n.content-3 {\n    background-color: rgb(243, 243, 243);\n    height: 825px;\n}\n\n.content-3-c,\n.content-4-c {\n    width: 1205px;\n    height: 100%;\n    margin: 0 auto;\n}\n\n.content-3-c-1 {\n    height: 340px;\n    padding-top: 30px;\n}\n\n.content-3-c-1 .left {\n    width: 400px;\n    height: 100%;\n    float: left;\n    margin-right: 15px;\n    background-color: #FFFFFF;\n}\n\n.content-3-c-1 .right {\n    width: 780px;\n    height: 100%;\n    float: right;\n    background-color: white;\n}\n\n.content-3-c-2 {\n    margin-top: 20px;\n    height: 400px;\n    background-color: white;\n}\n\n.content-3-c-1 .right .left_2 {\n    height: 100%;\n    width: 450px;\n    float: left;\n}\n\n.content-3-c-1 .left .title,\n.content-3-c-1 .right .title {\n    font-family: \"microsoft yahei\";\n    font-size: 16px;\n    width: 340px;\n    border-bottom: 1px solid rgb(221, 221, 221);\n    color: rgb(85, 85, 85);\n    margin: 0 auto;\n    margin-top: 20px;\n    text-align: center;\n}\n\n.content-3-c-1 .left .title a,\n.content-3-c-1 .right .title a {\n    padding: 0px 10px 10px 10px;\n    margin: 0 40px;\n    line-height: 44px;\n    width: 90px;\n}\n\n.content-3-c-1 .right .title a,\n.content-3-c-2 .c-3-left .title a,\n.content-3-c-2 .c-3-right .title a {\n    margin: 0;\n    padding: 0px 15px 10px 15px;\n    line-height: 43px;\n}\n\n.content-3-c-1 .right .title,\n.content-3-c-2 .right .title {\n    width: 100px;\n    margin: 20px 0 0 30px;\n}\n\n.content-3-c-1 .left .this,\n.content-3-c-1 .right .this,\n.content-3-c-2 .c-3-left .title .this,\n.content-3-c-2 .c-3-right .title .this {\n    color: rgb(242, 61, 61);\n    border-bottom: 2px solid rgb(242, 61, 61);\n}\n\n.content-3-c-1 .right .text {\n    width: 425px;\n    margin-left: 30px;\n}\n\n.content-3-c-1 .right p {\n    font-size: 12px;\n    font-family: \"宋体\";\n    color: rgb(102, 102, 102);\n    line-height: 30px;\n}\n\n.content-3-c-1 .right .right_2 {\n    width: 295px;\n    height: 300px;\n    position: relative;\n    float: right;\n    margin: 20px 20px 0 0;\n}\n\n.right_2 img,\n.right_2 p {\n    position: absolute;\n}\n\n.right_2 .i-1 {\n    top: 35px;\n    left: 35px;\n}\n\n.right_2 .i-2 {\n    top: 170px;\n    left: 40px;\n}\n\n.right_2 .i-3 {\n    top: 235px;\n    left: 40px;\n    font-size: 16px;\n    letter-spacing: 6.2px;\n    line-height: 15px !important;\n    color: white !important;\n}\n\n.right_2 .i-4 {\n\n    color: white !important;\n    margin-top: 2px;\n    top: 250px;\n    left: 40px;\n    font-size: 16px;\n    letter-spacing: 3px;\n    line-height: 15px !important;\n}\n\n.content-3-c-2 .c-3-left .title,\n.content-3-c-2 .c-3-right .title {\n    width: 100px;\n    margin: 20px 0px 0px 60px;\n    position: absolute;\n}\n\n.c-3-left {\n    width: 700px;\n    height: 100%;\n    float: left;\n    position: relative;\n}\n\n.c-3-right {\n    height: 100%;\n    width: 450px;\n    position: relative;\n    float: right;\n}\n\n.left-c {\n    width: 96%;\n    height: 300px;\n    margin-left: 30px;\n    /*margin-top: 40px;*/\n    position: absolute;\n    top: 80px;\n    float: left;\n}\n\n.left-c img {\n    float: left;\n}\n\n.right-c {\n    width: 415px;\n    float: right;\n}\n\n.left-c-1 span {\n    background: url(../img/image/c5-1.png) no-repeat;\n    height: 16px;\n    width: 100%;\n    color: red;\n    font-family: \"microsoft yahei\";\n    font-size: 14px;\n    padding-left: 25px;\n    line-height: 16px;\n}\n\n.left-c-1 p {\n    margin-top: 10px;\n    margin-bottom: 27px;\n    padding-left: 25px;\n    font-family: 'SimSun-ExtB';\n    font-size: 12px;\n    color: rgb(102, 102, 102);\n    line-height: 20px;\n}\n\n.c-3-img {\n    padding-left: 30px;\n    position: absolute;\n    padding-right: 20px;\n    float: left;\n    width: 1px;\n    height: 370px;\n    margin-top: 15px;\n}\n\n.content-3-c-2 .c-3-right .title {\n    margin-left: 0;\n}\n\n.c-3-right form {\n    position: absolute;\n    top: 70px;\n    width: 100%;\n}\n\n.c-3-right form p {\n    float: left;\n    width: 60px;\n    font-family: 'SimSun-ExtB';\n    font-size: 12px;\n}\n\n.c-3-right div {\n    margin-top: 20px;\n}\n\n.c-3-right input {\n    height: 30px;\n}\n\n.c-3-right textarea {\n    height: 110px;\n    resize: none;\n}\n\n.c-3-right textarea,\n.c-3-right input {\n    width: 340px;\n    border-radius: 2px;\n    border: 1px solid rgb(221, 221, 221);\n}\n\n.content-4 {\n    height: 240px;\n    width: 100%;\n    background: url(../img/image/c-6.png) no-repeat;\n    background-position-y: 100%;\n}\n\n.content-4-c {\n    position: relative;\n\n}\n\n.content-4-c .title {\n    font-family: \"microsoft yahei\";\n    font-size: 16px;\n    color: rgb(242, 61, 61);\n    border-bottom: 2px solid red;\n    width: 145px;\n    padding-bottom: 15px;\n    position: absolute;\n    top: 20px;\n    left: 30px;\n}\n\n.content-4-c-2 {\n    top: 75px;\n    height: 80px;\n    position: absolute\n}\n\n.content-4-c-2 .img {\n    width: 200px;\n    height: 80px;\n    background-color: white;\n    float: left;\n    text-align: center;\n    margin-right: 20px;\n    border: 4px solid rgb(243, 243, 243);\n\n}\n\n.content-4-c-2 img {\n    width: 125px;\n    height: 79px;\n}\n\n\n\nfooter {\n    width: 100%;\n    height: 410px;\n    background: url(../img/footer-bj.png)\n}\n\n.f-box {\n    width: 1205px;\n    margin: 0 auto;\n    position: relative;\n}",
+					"file": "/F/work/test1/css/main.css",
+					"file_size": 10547,
+					"file_write_time": 132202785334551529,
+					"settings":
+					{
+						"buffer_size": 9851,
+						"line_ending": "Windows",
+						"scratch": true
+					}
+				},
+				{
+					"contents": "let i=function(){\n\t\n}\ndocument.getElementById('a')\ndocument.getElementById('a')\nlet a=function(){\n\n}\nif (true) {\n\n} else {\n\n}\ndocument.getElementById('a')\nlet a=function(){\n\t\n}",
+					"file": "/F/work/test1/js/main.js",
+					"file_size": 138,
+					"file_write_time": 132202785923398592,
+					"settings":
+					{
+						"buffer_size": 176,
+						"line_ending": "Windows"
+					}
+				},
+				{
 					"file": "/F/BianCengApp/sublimeText/README.md",
 					"settings":
 					{
-						"buffer_size": 876,
+						"buffer_size": 998,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/lyydhy/AppData/Roaming/TabNine/tabnine_config.json",
+					"settings":
+					{
+						"buffer_size": 766,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "/*\n    SublimeCodeIntel default settings\n*/\n{\n    \"default\": {\n        /*\n            debug - Enbles/disables debug mode.\n        */\n        \"debug\": false,\n\n        /*\n            live - Enbles/disables live codeintel autocomplete.\n        */\n        \"live\": true,\n\n        /*\n        Maps syntax names to languages. This allows variations on a syntax\n        (for example \"Python (Django)\") to be used. The key is\n        the base filename of the .tmLanguage syntax files, and the value\n        is the syntax it maps to.\n        */\n        \"syntax_map\": {\n            \"C\": \"C++\",\n            \"C++11\": \"C++\",\n            \"Objective-C\": \"C++\",\n            \"Objective-C++\": \"C++\",\n            \"Python Django\": \"Python\",\n            \"PythonImproved\": \"Python\",\n            \"HTML (Django)\": \"Django\",\n            \"JavaScript\": \"ECMAScript\",\n            \"JavaScript (Babel)\": \"ECMAScript\",\n            \"Node.js\": \"ECMAScript\",\n            \"JSX\": \"ECMAScript\"\n        },\n\n        /*\n            disabled_languages - List of codeintel disabled languages.\n        */\n        \"disabled_languages\": [],\n\n        /*\n            command - Executable for OOP codeintel command.\n        */\n        \"command\": \"codeintel\",\n\n        /*\n            oop_mode - OOP mode.\n        */\n        \"oop_mode\": \"pipe\",\n\n        /*\n            log_levels - Set the logging levels for the OOP loggers\n            This can be DEBUG, INFO, WARNING or ERROR; WARNGING is recommended,\n            other settings might have an impact in the perfocmance.\n        */\n\n        \"log_levels\" : [\"WARNING\"],\n\n        /*\n            complete_commit - Makes auto complete close autocomplete\n            window with certain characters.\n        */\n        \"complete_commit\": true,\n\n        /*\n            complete_commit_fillup - Makes codeintel fillup characters\n            when possible (inserting the selected item in the autocomplete). This\n            setting requires complete_commit.\n        */\n        \"complete_commit_fillup\": false,\n\n        /*\n            selected_catalogs - API Catalogs.\n            SublimeCodeIntel uses API catalogs to provide autocomplete and calltips\n            for 3rd-party libraries.\n\n            NOTE: Add only the libraries that you use in your code. Adding all API\n                catalogs for a particular language can lead to confusing results.\n\n            Available catalogs:\n                PyWin32 (Python3) (for Python3: Python Extensions for Windows)\n                PyWin32 (for Python: Python Extensions for Windows)\n                Rails (for Ruby: Rails version 1.1.6)\n                jQuery (for JavaScript: jQuery JavaScript library - version 1.9.1)\n                Prototype (for JavaScript: JavaScript framework for web development)\n                dojo (for JavaScript: Dojo Toolkit API - version 1.5.0)\n                Ext_30 (for JavaScript: Ext JavaScript framework - version 3.0)\n                HTML5 (for JavaScript: HTML5 (Canvas, Web Messaging, Microdata))\n                MochiKit (for JavaScript: A lightweight JavaScript library - v1.4.2)\n                Mozilla Toolkit (for JavaScript: Mozilla Toolkit API - version 1.8)\n                XBL (for JavaScript: XBL JavaScript support - version 1.0)\n                YUI (for JavaScript: Yahoo! User Interface Library - v2.8.1)\n                Drupal (for PHP: A full-featured PHP content management/discussion engine -- v5.1)\n                PECL (for PHP: A collection of PHP Extensions)\n        */\n        \"selected_catalogs\": [],\n\n        /*\n            scan_files_in_project - Include all files and directories from\n            the project base directory and in the Sublime Text project.\n        */\n        \"scan_files_in_project\": true,\n\n        /*\n            max_recursive_dir_depth - Maximum recursion to use, when applicable.\n        */\n        \"max_recursive_dir_depth\": 10,\n\n        /*\n            scan_extra_paths - Extra directories to include during the scan,\n            additional to the ones configured by default.\n        */\n        \"scan_extra_paths\": [],\n\n        /*\n            scan_exclude_paths - Directories to exclude from the scan.\n        */\n        \"scan_exclude_paths\": [\"/build/\", \"/min/\"],\n\n        /*\n            env - Additional environment variables to use.\n        */\n        \"env\": {},\n\n        /*\n            Defines a configuration for each language. Each language can include any\n            of the available settings listed above, plus any others passed to CodeIntel.\n        */\n        \"language_settings\": {\n            \"Python\": {\n                \"python\": \"\"\n            },\n            \"Python3\": {\n                \"python3\": \"\"\n            },\n            \"Ruby\": {\n                \"ruby\": \"\"\n            },\n            \"Perl\": {\n                \"perl\": \"\"\n            },\n            \"Go\": {\n                \"golangDefaultLocation\": \"\",\n                \"gocodeDefaultLocation\": \"\",\n                \"godefDefaultLocation\": \"\"\n            },\n            \"HTML\": {\n                \"defaultHTMLDecl\": \"-//W3C//DTD HTML 5//EN\"\n            },\n            \"HTML5\": {\n                \"defaultHTML5Decl\": \"-//W3C//DTD HTML 5//EN\"\n            },\n            \"JavaScript\": {\n            },\n            \"Node.js\": {\n                \"nodejsDefaultInterpreter\": \"\"\n            },\n            \"ECMAScript\": {\n            },\n            \"PHP\": {\n                \"php\": \"\",\n                \"phpConfigFile\": \"\"\n            },\n            \"C++\": {\n                \"cppFlags\": [\"-I/usr/local/include\", \"-L/usr/local/lib\"]\n            }\n        }\n    }\n}\n",
+					"file": "/F/BianCengApp/sublimeText/Data/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+					"file_size": 5553,
+					"file_write_time": 131545395670000000,
+					"settings":
+					{
+						"buffer_size": 5553,
+						"line_ending": "Unix"
 					}
 				}
 			],
@@ -251,6 +323,34 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"ep",
+						"Package Control: Enable Package"
+					],
+					[
+						"dp",
+						"Package Control: Disable Package"
+					],
+					[
+						"enable",
+						"Package Control: Enable Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"ip",
+						"Package Control: Install Package"
+					],
+					[
+						"auto",
+						"Autoprefix CSS"
+					],
+					[
+						"package",
+						"Package Control: Disable Package"
+					],
 					[
 						"ma",
 						"Markdown Preview: Preview in Browser"
@@ -270,10 +370,6 @@
 					[
 						"rp",
 						"Package Control: Remove Package"
-					],
-					[
-						"ip",
-						"Package Control: Install Package"
 					],
 					[
 						"mar",
@@ -325,15 +421,23 @@
 			},
 			"expanded_folders":
 			[
-				"/F/BianCengApp/sublimeText"
+				"/F/work/test1",
+				"/F/work/test1/css",
+				"/F/work/test1/js"
 			],
 			"file_history":
 			[
+				"/F/BianCengApp/sublimeText/Data/Packages/ConvertToUTF8/Default (Windows).sublime-keymap",
+				"/F/work/test1/m.Vue",
+				"/F/work/test1/js/main.js",
+				"/F/BianCengApp/sublimeText/Data/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/F/BianCengApp/sublimeText/Data/Packages/User/ConvertToUTF8.sublime-settings",
+				"/F/BianCengApp/sublimeText/Data/Packages/ConvertToUTF8/ConvertToUTF8.sublime-settings",
+				"/F/work/test1/t.md",
 				"/F/BianCengApp/sublimeText/Data/Packages/Pretty JSON/Pretty JSON.sublime-settings",
 				"/F/BianCengApp/sublimeText/Data/Packages/LiveReload/LiveReload.sublime-settings",
 				"/F/BianCengApp/sublimeText/Data/Packages/Markdown/Markdown.sublime-syntax",
 				"/F/BianCengApp/sublimeText/Data/Packages/MarkdownLivePreview/MarkdownLivePreview.sublime-settings",
-				"/F/work/test1/t.md",
 				"/F/BianCengApp/sublimeText/Data/Packages/MarkdownLivePreview/MarkdownLivePreview.sublime-commands",
 				"/F/work/test1/test.html",
 				"/F/work/test1/m.css",
@@ -346,7 +450,6 @@
 				"/F/work/test1/min.html",
 				"/F/BianCengApp/sublimeText/Data/Packages/FileHeader/FileHeader.sublime-settings",
 				"/F/BianCengApp/sublimeText/Data/Packages/SublimeTmpl/templates/html.tmpl",
-				"/F/work/test1/js/main.js",
 				"/F/work/test1/main.html",
 				"/F/BianCengApp/sublimeText/Data/Packages/SublimeTmpl/Main.sublime-menu",
 				"/F/work/test1/test.py",
@@ -387,7 +490,7 @@
 			"folders":
 			[
 				{
-					"path": "F:\\BianCengApp\\sublimeText"
+					"path": "F:\\work\\test1"
 				}
 			],
 			"groups":
@@ -398,11 +501,964 @@
 					[
 						{
 							"buffer": 0,
+							"file": "/F/work/test1/index.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9207,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8817,
+										8773
+									]
+								],
+								"settings":
+								{
+									"auto_complete_triggers":
+									[
+										{
+											"characters": "<",
+											"selector": "text.html"
+										},
+										{
+											"characters": ".#",
+											"selector": "text.html"
+										}
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										227,
+										12,
+										5,
+										19,
+										42,
+										41,
+										11,
+										123,
+										154,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/HTML/HTML.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 70896.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 1,
+							"file": "/F/work/test1/css/main.css",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9851,
+								"regions":
+								{
+									"col_000000FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												80,
+												85
+											]
+										],
+										"scope": "col_000000FF"
+									},
+									"col_000000FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_000000FF_square.png",
+										"regions":
+										[
+											[
+												69,
+												69
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_552783FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												4640,
+												4656
+											]
+										],
+										"scope": "col_552783FF"
+									},
+									"col_552783FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_552783FF_square.png",
+										"regions":
+										[
+											[
+												4629,
+												4629
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_555555FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1300,
+												1315
+											],
+											[
+												1474,
+												1489
+											],
+											[
+												5668,
+												5683
+											]
+										],
+										"scope": "col_555555FF"
+									},
+									"col_555555FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_555555FF_square.png",
+										"regions":
+										[
+											[
+												1289,
+												1289
+											],
+											[
+												1463,
+												1463
+											],
+											[
+												5657,
+												5657
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_666666FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												6572,
+												6590
+											],
+											[
+												8204,
+												8222
+											]
+										],
+										"scope": "col_666666FF"
+									},
+									"col_666666FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_666666FF_square.png",
+										"regions":
+										[
+											[
+												6561,
+												6561
+											],
+											[
+												8193,
+												8193
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_939323FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												4801,
+												4818
+											]
+										],
+										"scope": "col_939323FF"
+									},
+									"col_939323FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_939323FF_square.png",
+										"regions":
+										[
+											[
+												4790,
+												4790
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_999999FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1133,
+												1151
+											],
+											[
+												1866,
+												1884
+											]
+										],
+										"scope": "col_999999FF"
+									},
+									"col_999999FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_999999FF_square.png",
+										"regions":
+										[
+											[
+												1122,
+												1122
+											],
+											[
+												1855,
+												1855
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_9B3333FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												4708,
+												4724
+											]
+										],
+										"scope": "col_9B3333FF"
+									},
+									"col_9B3333FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_9B3333FF_square.png",
+										"regions":
+										[
+											[
+												4697,
+												4697
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_A87138FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												4754,
+												4771
+											]
+										],
+										"scope": "col_A87138FF"
+									},
+									"col_A87138FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_A87138FF_square.png",
+										"regions":
+										[
+											[
+												4743,
+												4743
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_CC2929FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2462,
+												2478
+											]
+										],
+										"scope": "col_CC2929FF"
+									},
+									"col_CC2929FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_CC2929FF_square.png",
+										"regions":
+										[
+											[
+												2440,
+												2440
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_D9B2FFFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												3262,
+												3280
+											]
+										],
+										"scope": "col_D9B2FFFF"
+									},
+									"col_D9B2FFFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_D9B2FFFF_square.png",
+										"regions":
+										[
+											[
+												3240,
+												3240
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_DDDDDDFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												5637,
+												5655
+											],
+											[
+												8904,
+												8922
+											]
+										],
+										"scope": "col_DDDDDDFF"
+									},
+									"col_DDDDDDFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_DDDDDDFF_square.png",
+										"regions":
+										[
+											[
+												5608,
+												5608
+											],
+											[
+												8882,
+												8882
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_E52E2EFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												1185,
+												1201
+											]
+										],
+										"scope": "col_E52E2EFF"
+									},
+									"col_E52E2EFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_E52E2EFF_square.png",
+										"regions":
+										[
+											[
+												1174,
+												1174
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_EDEDEDFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												641,
+												659
+											]
+										],
+										"scope": "col_EDEDEDFF"
+									},
+									"col_EDEDEDFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_EDEDEDFF_square.png",
+										"regions":
+										[
+											[
+												619,
+												619
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_F23D3DFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												6349,
+												6365
+											],
+											[
+												6396,
+												6412
+											],
+											[
+												9198,
+												9214
+											]
+										],
+										"scope": "col_F23D3DFF"
+									},
+									"col_F23D3DFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_F23D3DFF_square.png",
+										"regions":
+										[
+											[
+												6338,
+												6338
+											],
+											[
+												6367,
+												6367
+											],
+											[
+												9187,
+												9187
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_F3F3F3FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												4858,
+												4876
+											],
+											[
+												9602,
+												9620
+											]
+										],
+										"scope": "col_F3F3F3FF"
+									},
+									"col_F3F3F3FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_F3F3F3FF_square.png",
+										"regions":
+										[
+											[
+												4836,
+												4836
+											],
+											[
+												9580,
+												9580
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_FF0000FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												7943,
+												7946
+											],
+											[
+												9245,
+												9248
+											]
+										],
+										"scope": "col_FF0000FF"
+									},
+									"col_FF0000FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_FF0000FF_square.png",
+										"regions":
+										[
+											[
+												7932,
+												7932
+											],
+											[
+												9216,
+												9216
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_FF3333FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2668,
+												2684
+											]
+										],
+										"scope": "col_FF3333FF"
+									},
+									"col_FF3333FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_FF3333FF_square.png",
+										"regions":
+										[
+											[
+												2646,
+												2646
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_FFB2B2FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												3314,
+												3332
+											]
+										],
+										"scope": "col_FFB2B2FF"
+									},
+									"col_FFB2B2FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_FFB2B2FF_square.png",
+										"regions":
+										[
+											[
+												3292,
+												3292
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_FFD9B2FF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												3366,
+												3384
+											]
+										],
+										"scope": "col_FFD9B2FF"
+									},
+									"col_FFD9B2FF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_FFD9B2FF_square.png",
+										"regions":
+										[
+											[
+												3344,
+												3344
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_FFFF8CFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												3418,
+												3436
+											]
+										],
+										"scope": "col_FFFF8CFF"
+									},
+									"col_FFFF8CFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_FFFF8CFF_square.png",
+										"regions":
+										[
+											[
+												3396,
+												3396
+											]
+										],
+										"scope": "col_gutter"
+									},
+									"col_FFFFFFFF":
+									{
+										"flags": 16,
+										"regions":
+										[
+											[
+												2270,
+												2288
+											],
+											[
+												3201,
+												3206
+											],
+											[
+												3998,
+												4005
+											],
+											[
+												4155,
+												4160
+											],
+											[
+												4385,
+												4392
+											],
+											[
+												5173,
+												5180
+											],
+											[
+												5285,
+												5290
+											],
+											[
+												5375,
+												5380
+											],
+											[
+												7056,
+												7061
+											],
+											[
+												7105,
+												7110
+											],
+											[
+												9508,
+												9513
+											]
+										],
+										"scope": "col_FFFFFFFF"
+									},
+									"col_FFFFFFFF_icon":
+									{
+										"flags": 16,
+										"icon": "Packages/User/Color Highlight.cache/col_FFFFFFFF_square.png",
+										"regions":
+										[
+											[
+												2259,
+												2259
+											],
+											[
+												3179,
+												3179
+											],
+											[
+												3987,
+												3987
+											],
+											[
+												4144,
+												4144
+											],
+											[
+												4374,
+												4374
+											],
+											[
+												5151,
+												5151
+											],
+											[
+												5263,
+												5263
+											],
+											[
+												5353,
+												5353
+											],
+											[
+												7045,
+												7045
+											],
+											[
+												7094,
+												7094
+											],
+											[
+												9486,
+												9486
+											]
+										],
+										"scope": "col_gutter"
+									}
+								},
+								"selection":
+								[
+									[
+										116,
+										116
+									]
+								],
+								"settings":
+								{
+									"auto_complete_triggers":
+									[
+										{
+											"characters": "<",
+											"selector": "text.html"
+										},
+										{
+											"characters": ".#",
+											"selector": "text.html"
+										}
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										227,
+										12,
+										5,
+										19,
+										42,
+										41,
+										10,
+										119,
+										49,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"force_encoding": "GBK",
+									"in_converting": true,
+									"is_init_dirty_state": false,
+									"origin_encoding": "GBK",
+									"syntax": "Packages/CSS3/CSS3.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/F/work/test1/js/main.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 176,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										174,
+										174
+									]
+								],
+								"settings":
+								{
+									"auto_complete_triggers":
+									[
+										{
+											"characters": "<",
+											"selector": "text.html"
+										},
+										{
+											"characters": ".#",
+											"selector": "text.html"
+										}
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										227,
+										12,
+										8,
+										1,
+										47,
+										5,
+										1,
+										24,
+										14,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"is_init_dirty_state": true,
+									"origin_encoding": "UTF-8",
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
 							"file": "/F/BianCengApp/sublimeText/README.md",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 876,
+								"buffer_size": 998,
 								"regions":
 								{
 									"col_FF0000FF":
@@ -459,8 +1515,8 @@
 								"selection":
 								[
 									[
-										383,
-										383
+										686,
+										686
 									]
 								],
 								"settings":
@@ -523,17 +1579,149 @@
 										3,
 										46
 									],
-									"is_init_dirty_state": false,
-									"origin_encoding": "UTF-8",
-									"parser": "github",
+									"parser": null,
 									"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-									"target": "disk"
+									"target": "disk",
+									"translate_tabs_to_spaces": false
 								},
 								"translation.x": 0.0,
-								"translation.y": 183.0,
+								"translation.y": 227.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/C/Users/lyydhy/AppData/Roaming/TabNine/tabnine_config.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 766,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										396,
+										396
+									]
+								],
+								"settings":
+								{
+									"auto_complete_triggers":
+									[
+										{
+											"characters": "<",
+											"selector": "text.html"
+										},
+										{
+											"characters": ".#",
+											"selector": "text.html"
+										}
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										227,
+										12,
+										8,
+										17,
+										29,
+										29,
+										14,
+										133,
+										188,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/F/BianCengApp/sublimeText/Data/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 5553,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_complete_triggers":
+									[
+										{
+											"characters": "<",
+											"selector": "text.html"
+										},
+										{
+											"characters": ".#",
+											"selector": "text.html"
+										}
+									],
+									"is_init_dirty_state": false,
+									"origin_encoding": "ASCII",
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
 							"type": "text"
 						}
 					]
@@ -556,11 +1744,18 @@
 						0,
 						1,
 						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.156670113754,
 					1.0
 				],
 				"rows":
@@ -579,7 +1774,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-1,-1,-1,-1,1081,526,303,1663",
+			"position": "0,2,3,-32000,-32000,-1,-1,933,809,155,1942",
 			"project": "",
 			"replace":
 			{
@@ -613,7 +1808,7 @@
 				],
 				"width": 0.0
 			},
-			"selected_group": 0,
+			"selected_group": 1,
 			"settings":
 			{
 			},
@@ -626,7 +1821,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 17,
+			"window_id": 18,
 			"workspace_name": ""
 		}
 	],
